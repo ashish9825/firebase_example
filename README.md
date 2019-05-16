@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This is a flutter app which makes use of handling basic firebase features in flutter like Authentication, Cloud Firestore, Firebase Storage.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
